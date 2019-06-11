@@ -1,1 +1,1 @@
-# Minirechner
+# Minirechner für android
